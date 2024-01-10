@@ -4,8 +4,8 @@
 
 ## 🚀 Tech Stack
 
-![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-black?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-green?style=flat&logo=sql&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash&logoColor=white)
