@@ -9,7 +9,6 @@
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-green?style=flat&logo=sql&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
