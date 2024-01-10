@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Alessio De Nicola and I'm a Junior Software Engineer from Italy
 
-Only coding, dogs and football make me happy :)
+### Only coding, dogs and football make me happy :)
 
 ## 🚀 Tech Stack
 
