@@ -19,7 +19,7 @@
 ## 💻 Recent Projects
 
 - [**Last Project**](https://github.com/aledeni/Tetris-ASCII): An ASCII version of Tetris.
-- [**Biggest Project**](https://github.com/aledeni/NoteX): A web application for sharing notes.
+- [**Biggest Project**](https://github.com/b3nny01/NoteX): A web application for sharing notes.
 
 ## 🌱 Currently Learning
 
