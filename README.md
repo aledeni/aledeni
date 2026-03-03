@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Alessio De Nicola from Italy
 
-### Only coding, dogs and football make me happy :)
+### Electronics, coding, dogs and football make me happy :)
 
 ## 📫 Connect with Me
 
