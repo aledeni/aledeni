@@ -1,4 +1,4 @@
-## Electronic Engineering worker-student :)
+## Electronic Engineering worker-student 🚀
 
 ### 📫 Connect with Me
 
